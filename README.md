@@ -2,50 +2,52 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4c1d95,100:1e1b4b&height=180&section=header&text=Arafath%20Hossain%20Akash&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Full%20Stack%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:0B0B0B&height=180&section=header&text=Arafath%20Hossain%20Akash&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLM+Applications+%7C+RAG+Systems;Building+Production-Ready+AI+%26+Software+Systems;Full+Stack+Engineering+%7C+Backend+%7C+Cloud;Designing+Systems+That+Solve+Real+Problems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLM+Applications+%7C+RAG;Backend+%7C+Full+Stack+%7C+Cloud;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Sc.%20in%20CSE-United%20International%20University-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-Computer%20Science%20%26%20Engineering-312E81?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dhaka-Bangladesh-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Sc.%20in%20CSE-United%20International%20University-111111?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-CSE-222222?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dhaka-Bangladesh-990000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://github.com/ArafathUIU">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/md-arafath-akash77">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:arafathakash77@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/ArafathUIU">
-<img src="https://img.shields.io/badge/GitHub-ArafathUIU-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ArafathUIU-222222?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArafathUIU&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ArafathUIU?label=FOLLOWERS&style=for-the-badge&color=4C1D95"/>
-<img src="https://img.shields.io/github/stars/ArafathUIU?label=STARS&style=for-the-badge&color=312E81"/>
+<img src="https://komarev.com/ghpvc/?username=ArafathUIU&label=PROFILE%20VIEWS&color=990000&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ArafathUIU?label=FOLLOWERS&style=for-the-badge&color=111111"/>
+<img src="https://img.shields.io/github/stars/ArafathUIU?label=STARS&style=for-the-badge&color=222222"/>
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafathUIU&bg_color=0B0B0B&color=FFFFFF&line=CC2222&point=FF4444&area=true&area_color=220000&hide_border=true&custom_title=SYSTEM%20ACTIVITY" width="82%"/>
 </div>
 
 ---
 
 ## About
 
-I am a **Junior AI Engineer and Software Engineer** focused on building production-oriented systems across **Artificial Intelligence, Large Language Models, backend engineering, and full-stack development**.
+I am a **Junior AI Engineer and Software Engineer** building production-oriented systems across **AI, LLMs, backend engineering, and full-stack development**.
 
-My work sits at the intersection of **AI engineering and practical software engineering** — from designing RAG pipelines and agentic systems to building APIs, databases, distributed services, and user-facing applications.
-
-I enjoy taking systems from **idea → architecture → implementation → testing → deployment**, with particular interest in:
+**Focus:**
 
 * **AI / ML Engineering**
 * **LLM Applications & AI Agents**
@@ -54,12 +56,9 @@ I enjoy taking systems from **idea → architecture → implementation → testi
 * **Full Stack Product Development**
 * **Computer Vision & OCR**
 * **Voice AI, STT / TTS & IVR**
-* **Cloud, Docker & Production Infrastructure**
-* **System Design & Scalable Architecture**
+* **Cloud & Production Infrastructure**
 
-### Open To
-
-`AI Engineer` · `ML Engineer` · `Software Engineer` · `Full Stack Engineer` · `Backend Engineer` · `LLM Engineer` · `AI Agent Engineer`
+**Open to:** `AI Engineer` · `ML Engineer` · `Software Engineer` · `Full Stack Engineer` · `Backend Engineer` · `LLM Engineer`
 
 ---
 
@@ -67,31 +66,23 @@ I enjoy taking systems from **idea → architecture → implementation → testi
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,cs,php,go,bash" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,cs,php,go,bash" /></p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" /></p>
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,laravel,postgres,mysql,mongodb,redis" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,laravel,postgres,mysql,mongodb,redis" /></p>
 
 ### Cloud, DevOps & Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,azure,nginx,postman" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,azure,nginx,postman" /></p>
 
 ---
 
-## AI / ML Expertise
+## AI / ML
 
 | Domain                | Proficiency           | Details                                                                        |
 | --------------------- | --------------------- | ------------------------------------------------------------------------------ |
@@ -103,7 +94,7 @@ I enjoy taking systems from **idea → architecture → implementation → testi
 | **Computer Vision**   | Intermediate          | OCR, document understanding and image-processing pipelines                     |
 | **Voice AI**          | Intermediate          | STT, TTS, VAD, conversational agents and IVR-oriented systems                  |
 | **AI Evaluation**     | Intermediate          | RAG evaluation, quality measurement and pipeline validation                    |
-| **AI Infrastructure** | Intermediate          | Dockerized inference/services, APIs and production-oriented deployment         |
+| **AI Infrastructure** | Intermediate          | Dockerized inference, APIs and deployment                                      |
 
 ---
 
@@ -125,15 +116,6 @@ A full-stack academic platform designed around assignment management, authentica
 | **Impact**      | Streamlines assignment and academic workflows       |
 | **Repository**  | [GitHub](https://github.com/ArafathUIU/AssignSmart) |
 
-**Engineering Focus**
-
-* RESTful backend architecture
-* Authentication and authorization
-* API documentation with Swagger
-* Structured frontend/backend separation
-* Maintainable application architecture
-* Production-oriented development workflow
-
 </details>
 
 <details>
@@ -151,14 +133,6 @@ A full-stack commerce application focused on product management, application wor
 | **Security**    | Authentication and API-oriented architecture      |
 | **Impact**      | End-to-end product engineering experience         |
 | **Repository**  | [GitHub](https://github.com/ArafathUIU/StackMart) |
-
-**Engineering Focus**
-
-* Full-stack application development
-* Backend API architecture
-* Database-driven workflows
-* Modern frontend development
-* Product-oriented engineering
 
 </details>
 
@@ -178,14 +152,6 @@ An AI-focused conversational system developed around intelligent interaction and
 | **Impact**      | 3rd runner-up at the CSE Project Show, Spring 2025 |
 | **Repository**  | [GitHub Profile](https://github.com/ArafathUIU)    |
 
-**Engineering Focus**
-
-* Conversational AI
-* NLP and LLM integration
-* Applied AI system design
-* Product-oriented AI development
-* Human-centered interaction
-
 </details>
 
 <details>
@@ -203,16 +169,6 @@ A document intelligence system designed to allow users to interact with knowledg
 | **Security**    | Controlled document knowledge boundaries                 |
 | **Impact**      | Converts unstructured documents into queryable knowledge |
 | **Repository**  | [GitHub Profile](https://github.com/ArafathUIU)          |
-
-**Engineering Focus**
-
-* Document ingestion
-* Text chunking and preprocessing
-* Embedding generation
-* Vector similarity search
-* Retrieval-augmented generation
-* Knowledge-base construction
-* LLM response generation
 
 </details>
 
@@ -232,17 +188,6 @@ A conversational voice-agent system focused on natural phone-based interaction, 
 | **Impact**      | Automates receptionist-style conversational workflows |
 | **Repository**  | [GitHub Profile](https://github.com/ArafathUIU)       |
 
-**Engineering Focus**
-
-* Voice Activity Detection
-* Speech-to-Text
-* Text-to-Speech
-* Conversational state management
-* Tool calling
-* Appointment workflows
-* Interruption handling
-* Real-time voice-agent architecture
-
 </details>
 
 ---
@@ -253,16 +198,13 @@ A conversational voice-agent system focused on natural phone-based interaction, 
 
 **February 2026 — Present**
 
-Working across AI engineering, emerging technologies and production-oriented software systems.
-
 * Developing AI/ML-powered applications and intelligent workflows
 * Working with LLMs, NLP, RAG and agentic AI architectures
 * Building backend services and API-driven systems
 * Exploring Computer Vision and OCR pipelines
 * Working with voice technologies, IVR and conversational systems
 * Applying Docker and modern development practices to AI workloads
-* Working across IAM, cloud computing, cybersecurity and microservice-oriented technologies
-* Contributing to research, experimentation and implementation of emerging AI technologies
+* Working across cloud, cybersecurity and microservice-oriented technologies
 
 **Skills:** `Python` `AI/ML` `LLMs` `RAG` `NLP` `Computer Vision` `OCR` `Voice AI` `FastAPI` `Docker` `Cloud` `Microservices`
 
@@ -270,13 +212,10 @@ Working across AI engineering, emerging technologies and production-oriented sof
 
 **April 2025 — September 2025**
 
-Worked on AI-powered knowledge systems, product development and research-to-implementation workflows.
-
 * Developed RAG-based knowledge-base systems
 * Worked with document processing and retrieval pipelines
 * Supported beta testing and product validation
-* Contributed to commercialization-oriented technical work
-* Researched and implemented applied AI solutions
+* Contributed to product development and applied AI research
 
 **Skills:** `Python` `RAG` `NLP` `LLMs` `Knowledge Bases` `Product Development`
 
@@ -292,50 +231,6 @@ Worked on AI-powered knowledge systems, product development and research-to-impl
 | **UIU ELF**                        | Served as **Vice President**                                                  |
 | **AI Engineering**                 | Built multiple applied AI, RAG, voice and intelligent automation systems      |
 | **Software Engineering**           | Developed full-stack, backend and AI-powered production-oriented applications |
-
-</div>
-
----
-
-## Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20AI-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Learning-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-1E1B4B?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
 
 </div>
 
@@ -388,42 +283,6 @@ Worked on AI-powered knowledge systems, product development and research-to-impl
 <img src="https://raw.githubusercontent.com/ArafathUIU/ArafathUIU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced LLM Systems
-  - Agentic AI
-  - Distributed Systems
-  - System Design
-  - Production AI Infrastructure
-
-Building:
-  - RAG Applications
-  - AI Agents
-  - Voice AI Systems
-  - Full Stack Products
-  - Scalable Backend Services
-
-Exploring:
-  - Multimodal AI
-  - Computer Vision
-  - OCR
-  - STT / TTS
-  - AI Evaluation
-  - Model Optimization
-
-Open To:
-  - AI Engineering
-  - ML Engineering
-  - Software Engineering
-  - Backend Engineering
-  - Full Stack Engineering
-  - LLM / Agent Engineering
-```
 
 ---
 
