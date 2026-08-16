@@ -1,5 +1,3 @@
-# Md. Arafath Hossain Akash — GitHub Profile README
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:0B0B0B&height=180&section=header&text=Arafath%20Hossain%20Akash&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
