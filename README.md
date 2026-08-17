@@ -254,36 +254,6 @@ A conversational voice-agent system focused on natural phone-based interaction, 
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArafathUIU&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafathUIU&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true&custom_title=Arafath%20Hossain%20Akash%20%E2%80%94%20Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArafathUIU/ArafathUIU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
