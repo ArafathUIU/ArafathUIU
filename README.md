@@ -234,26 +234,6 @@ A conversational voice-agent system focused on natural phone-based interaction, 
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArafathUIU&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&bg_color=0D1117" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=ArafathUIU&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafathUIU&layout=compact&hide_border=true&langs_count=10&title_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" height="180"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
