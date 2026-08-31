@@ -43,7 +43,7 @@
 
 ## About
 
-I am a **Junior AI Engineer and Software Engineer** building production-oriented systems across **AI, LLMs, backend engineering, and full-stack development**.
+I am an ** AI Engineer and Software Engineer** building production-oriented systems across **AI, LLMs, backend engineering, and full-stack development**.
 
 **Focus:**
 
