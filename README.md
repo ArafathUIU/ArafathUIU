@@ -1,257 +1,434 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:0B0B0B&height=180&section=header&text=Arafath%20Hossain%20Akash&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm **Md. Arafath Hossain Akash**
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=FF3B3B&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLM+Applications+%7C+RAG;Backend+%7C+Full+Stack+%7C+Cloud;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
-</a>
+### AI Engineer | Software Engineer | LLM, RAG & Intelligent Systems
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-<img src="https://img.shields.io/badge/B.Sc.%20in%20CSE-United%20International%20University-111111?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-CSE-222222?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dhaka-Bangladesh-990000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://github.com/ArafathUIU">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/md-arafath-akash77">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-990000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:arafathakash77@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ArafathUIU">
-<img src="https://img.shields.io/badge/GitHub-ArafathUIU-222222?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ArafathUIU&label=PROFILE%20VIEWS&color=990000&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ArafathUIU?label=FOLLOWERS&style=for-the-badge&color=111111"/>
-<img src="https://img.shields.io/github/stars/ArafathUIU?label=STARS&style=for-the-badge&color=222222"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=d4af37&logoColor=white" alt="GitHub Followers" />
+</p>
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafathUIU&bg_color=0B0B0B&color=FFFFFF&line=CC2222&point=FF4444&area=true&area_color=220000&hide_border=true&custom_title=SYSTEM%20ACTIVITY" width="82%"/>
-</div>
+---
+
+<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 🧑‍💻 About Me
+
+```python
+class ArafathAkash:
+    def __init__(self):
+        self.name = "Md. Arafath Hossain Akash"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
+
+        self.role = "Junior AI Engineer"
+        self.education = (
+            "B.Sc. in Computer Science & Engineering "
+            "@ United International University"
+        )
+
+        self.focus = [
+            "Agentic AI & Multi-Agent Systems",
+            "LLM Applications & Retrieval-Augmented Generation",
+            "Voice AI & Intelligent IVR Systems",
+            "Backend Engineering & Scalable APIs",
+            "Computer Vision & OCR Pipelines"
+        ]
+
+        self.tech = [
+            "Python",
+            "FastAPI",
+            "LangChain",
+            "LangGraph",
+            "PostgreSQL",
+            "Docker"
+        ]
+
+    def say_hi(self):
+        print(
+            "Building intelligent systems that turn "
+            "complex problems into practical products. 🚀"
+        )
+```
+
+<br clear="right"/>
 
 ---
 
-## About
+# 🎯 What I'm Building
 
-I am an **AI Engineer and Software Engineer** building production-oriented systems across **AI, LLMs, backend engineering, and full-stack development**.
+<table>
+<tr>
 
-**Focus:**
+<td width="50%">
 
-* **AI / ML Engineering**
-* **LLM Applications & AI Agents**
-* **RAG & Knowledge-Based Systems**
-* **Backend & API Engineering**
-* **Full Stack Product Development**
-* **Computer Vision & OCR**
-* **Voice AI, STT / TTS & IVR**
-* **Cloud & Production Infrastructure**
+## 🤖 Currently Working On
 
-**Open to:** `AI Engineer` · `ML Engineer` · `Software Engineer` · `Full Stack Engineer` · `Backend Engineer` · `LLM Engineer`
+* 🧠 **Agentic AI Systems**
+  Building intelligent multi-agent workflows using LLMs, LangChain, LangGraph, and custom orchestration architectures.
 
----
+* 📚 **RAG & Knowledge Systems**
+  Designing scalable document ingestion, retrieval, embedding, reranking, and context-aware generation pipelines.
 
-## Tech Stack
+* 🎙️ **Voice AI & IVR**
+  Building conversational AI systems combining STT, LLM orchestration, and TTS for real-world voice interactions.
 
-### Languages
+* 👁️ **Computer Vision & OCR**
+  Developing document intelligence pipelines for image processing, OCR, and automated information extraction.
 
-<p><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,cs,php,go,bash" /></p>
+</td>
 
-### Frontend
+<td width="50%">
 
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" /></p>
+## 💬 Ask Me About
 
-### Backend & Databases
+* 🤖 **LLMs & Agentic AI**
+  LangChain, LangGraph, Multi-Agent Systems, Tool Calling, AI Workflows.
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,laravel,postgres,mysql,mongodb,redis" /></p>
+* 📚 **RAG Systems**
+  Vector Search, Embeddings, FAISS, Retrieval Optimization, Document Processing.
 
-### Cloud, DevOps & Tooling
+* ⚙️ **Backend Engineering**
+  Python, FastAPI, REST APIs, PostgreSQL, Redis, Celery.
 
-<p><img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,azure,nginx,postman" /></p>
+* 🎙️ **Voice AI**
+  Speech-to-Text, Text-to-Speech, Conversational AI, Intelligent IVR.
 
----
+* 🐳 **Deployment & Infrastructure**
+  Docker, APIs, CI/CD, GitHub Actions, Cloud Architecture.
 
-## AI / ML
+</td>
 
-| Domain                | Proficiency           | Details                                                                        |
-| --------------------- | --------------------- | ------------------------------------------------------------------------------ |
-| **LLM Applications**  | Advanced              | LLM-powered applications, orchestration, prompting and production workflows    |
-| **RAG Systems**       | Advanced              | Retrieval pipelines, knowledge bases, embeddings, vector search and evaluation |
-| **AI Agents**         | Advanced              | Agentic workflows, tool use, state management and multi-agent architectures    |
-| **NLP**               | Advanced              | Text processing, semantic search, embeddings and multilingual NLP              |
-| **Machine Learning**  | Intermediate–Advanced | Model development, experimentation and applied ML systems                      |
-| **Computer Vision**   | Intermediate          | OCR, document understanding and image-processing pipelines                     |
-| **Voice AI**          | Intermediate          | STT, TTS, VAD, conversational agents and IVR-oriented systems                  |
-| **AI Evaluation**     | Intermediate          | RAG evaluation, quality measurement and pipeline validation                    |
-| **AI Infrastructure** | Intermediate          | Dockerized inference, APIs and deployment                                      |
+</tr>
+</table>
 
 ---
 
-## Featured Projects
-
-<details>
-<summary><strong>AssignSmart — Smart Assignment & Academic Management Platform</strong></summary>
-
-<br/>
-
-A full-stack academic platform designed around assignment management, authentication, APIs and structured academic workflows.
-
-| Attribute       | Details                                             |
-| --------------- | --------------------------------------------------- |
-| **Stack**       | .NET, C#, REST API, Swagger, Frontend               |
-| **Scale**       | Full-stack application architecture                 |
-| **Performance** | API-oriented backend architecture                   |
-| **Security**    | Authentication and structured API access            |
-| **Impact**      | Streamlines assignment and academic workflows       |
-| **Repository**  | [GitHub](https://github.com/ArafathUIU/AssignSmart) |
-
-</details>
-
-<details>
-<summary><strong>StackMart — Full Stack E-Commerce Platform</strong></summary>
-
-<br/>
-
-A full-stack commerce application focused on product management, application workflows and modern web development.
-
-| Attribute       | Details                                           |
-| --------------- | ------------------------------------------------- |
-| **Stack**       | Full Stack Web Development                        |
-| **Scale**       | Multi-layer application                           |
-| **Performance** | Structured frontend/backend architecture          |
-| **Security**    | Authentication and API-oriented architecture      |
-| **Impact**      | End-to-end product engineering experience         |
-| **Repository**  | [GitHub](https://github.com/ArafathUIU/StackMart) |
-
-</details>
-
-<details>
-<summary><strong>CompanionX — AI-Powered Conversational Platform</strong></summary>
-
-<br/>
-
-An AI-focused conversational system developed around intelligent interaction and applied AI engineering.
-
-| Attribute       | Details                                            |
-| --------------- | -------------------------------------------------- |
-| **Stack**       | Python, AI/ML, NLP, LLM technologies               |
-| **Scale**       | AI application architecture                        |
-| **Performance** | Conversational inference pipeline                  |
-| **Security**    | Application-level data handling                    |
-| **Impact**      | 3rd runner-up at the CSE Project Show, Spring 2025 |
-| **Repository**  | [GitHub Profile](https://github.com/ArafathUIU)    |
-
-</details>
-
-<details>
-<summary><strong>AskYourDocs — Retrieval-Augmented Generation System</strong></summary>
-
-<br/>
-
-A document intelligence system designed to allow users to interact with knowledge contained inside documents using retrieval-augmented generation.
-
-| Attribute       | Details                                                  |
-| --------------- | -------------------------------------------------------- |
-| **Stack**       | Python, LangChain, FAISS, Sentence Transformers, LLMs    |
-| **Scale**       | Document-to-Knowledge AI pipeline                        |
-| **Performance** | Semantic retrieval and context-aware generation          |
-| **Security**    | Controlled document knowledge boundaries                 |
-| **Impact**      | Converts unstructured documents into queryable knowledge |
-| **Repository**  | [GitHub Profile](https://github.com/ArafathUIU)          |
-
-</details>
-
-<details>
-<summary><strong>Smart Receptionist — AI Voice / IVR Agent</strong></summary>
-
-<br/>
-
-A conversational voice-agent system focused on natural phone-based interaction, dialogue management and appointment-oriented workflows.
-
-| Attribute       | Details                                               |
-| --------------- | ----------------------------------------------------- |
-| **Stack**       | Python, LLMs, STT, TTS, VAD, APIs                     |
-| **Scale**       | Real-time conversational workflow                     |
-| **Performance** | Streaming voice interaction architecture              |
-| **Security**    | Controlled tool execution and state management        |
-| **Impact**      | Automates receptionist-style conversational workflows |
-| **Repository**  | [GitHub Profile](https://github.com/ArafathUIU)       |
-
-</details>
-
----
-
-## Experience
-
-### Junior AI Engineer — Betopia Limited
-
-**February 2026 — Present**
-
-* Developing AI/ML-powered applications and intelligent workflows
-* Working with LLMs, NLP, RAG and agentic AI architectures
-* Building backend services and API-driven systems
-* Exploring Computer Vision and OCR pipelines
-* Working with voice technologies, IVR and conversational systems
-* Applying Docker and modern development practices to AI workloads
-* Working across cloud, cybersecurity and microservice-oriented technologies
-
-**Skills:** `Python` `AI/ML` `LLMs` `RAG` `NLP` `Computer Vision` `OCR` `Voice AI` `FastAPI` `Docker` `Cloud` `Microservices`
-
-### Product Development Intern — Institute of Research, Innovation, Incubation & Commercialization, UIU
-
-**April 2025 — September 2025**
-
-* Developed RAG-based knowledge-base systems
-* Worked with document processing and retrieval pipelines
-* Supported beta testing and product validation
-* Contributed to product development and applied AI research
-
-**Skills:** `Python` `RAG` `NLP` `LLMs` `Knowledge Bases` `Product Development`
-
----
-
-## Achievements
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
-| Recognition                        | Details                                                                       |
-| ---------------------------------- | ----------------------------------------------------------------------------- |
-| **CSE Project Show — Spring 2025** | **3rd Runner-Up** with CompanionX                                             |
-| **UIU ELF**                        | Served as **Vice President**                                                  |
-| **AI Engineering**                 | Built multiple applied AI, RAG, voice and intelligent automation systems      |
-| **Software Engineering**           | Developed full-stack, backend and AI-powered production-oriented applications |
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,laravel,nodejs" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js,ts" />
+</p>
+
+### 🗄️ Databases & Data Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,aws" />
+</p>
 
 </div>
 
 ---
 
-## Connect
+# 🚀 AI & Engineering Stack
+
+```text
+🧠 AI & LLM
+├── LangChain
+├── LangGraph
+├── LLM APIs
+├── RAG Pipelines
+├── Embeddings
+├── Vector Search
+└── Agentic Workflows
+
+⚙️ Backend
+├── Python
+├── FastAPI
+├── REST APIs
+├── ASP.NET Core
+└── Laravel
+
+📊 Data Infrastructure
+├── PostgreSQL
+├── Redis
+├── FAISS
+├── Celery
+└── Vector Databases
+
+🎙️ Intelligent Systems
+├── Voice AI
+├── STT
+├── TTS
+├── Intelligent IVR
+└── Conversational Agents
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="mailto:arafathakash77@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-arafathakash77%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=d4af37&icon_color=ff6b35&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=d4af37&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&bg_color=000000\&color=d4af37\&line=ff6b35\&point=ffffff\&area=true\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🤖 Junior AI Engineer
+
+**Betopia Limited** · Dhaka, Bangladesh
+**Feb 2026 – Present**
+
+* Building AI-powered applications and backend services using **Python, FastAPI, LLMs, and modern web technologies**.
+* Developing **Retrieval-Augmented Generation (RAG)** systems for intelligent document search and knowledge retrieval.
+* Designing **Agentic AI and multi-agent architectures** for complex AI workflows.
+* Engineering AI-driven **Voice AI and IVR systems** combining Speech-to-Text, LLM reasoning, and Text-to-Speech.
+* Building scalable APIs and backend services for production applications.
+* Working with **Computer Vision, OCR, NLP, LLMs, and emerging AI technologies**.
+
+### Selected Impact
+
+* 🚀 Reduced LLM token consumption by **up to 95%** through retrieval and context optimization.
+* 📄 Worked on RAG knowledge pipelines involving **large-scale document collections**.
+* 🎙️ Built AI-driven IVR architecture handling **hundreds of daily conversations** with low-latency response.
+* 🔍 Developed document processing and OCR pipelines with automated extraction and validation workflows.
+
+---
+
+## 🔬 Product Development Intern
+
+**Institute of Research, Innovation, Incubation & Commercialization**
+**United International University**
+
+**Apr 2025 – Sep 2025**
+
+* Built Retrieval-Augmented Generation knowledge pipelines for large document collections.
+* Developed OCR and Computer Vision pipelines for automated document processing.
+* Worked with backend APIs, data pipelines, information extraction, and AI-powered applications.
+* Performed extensive testing and debugging across AI workflows and backend systems.
+
+---
+
+# 🌟 Featured Projects
+
+## 🧠 PolyglotSpec — Cross-Language API Contract Validation
+
+A system designed to prevent integration failures between services written in different programming languages.
+
+**Concept:**
+
+```text
+Python Service
+      │
+      │ API Contract
+      ▼
+┌───────────────────┐
+│   PolyglotSpec    │
+│                   │
+│ Schema Validation │
+│ Contract Testing  │
+│ Compatibility     │
+└───────────────────┘
+      │
+      ▼
+PHP / Laravel / Other Services
+```
+
+**Focus:** API contracts, schema compatibility, cross-language validation, and distributed systems reliability.
+
+---
+
+## 📚 UniRAG — University Knowledge Retrieval System
+
+A scalable RAG-powered knowledge system designed to retrieve information from a large collection of university data.
+
+### Highlights
+
+* 🏫 Knowledge base built from information across **100+ universities**
+* 🔍 Semantic retrieval using embeddings and vector search
+* ⚡ Optimized retrieval pipeline to reduce unnecessary LLM context
+* 🔄 Automated scraping and background processing with Celery
+* 🧠 Context-aware LLM responses
+
+**Stack:**
+
+`Python` • `FastAPI` • `LangChain` • `FAISS` • `Celery` • `Redis`
+
+---
+
+## 🎙️ AI-Powered Voice & IVR System
+
+An intelligent conversational system integrating:
+
+```text
+User Voice
+    │
+    ▼
+Speech-to-Text
+    │
+    ▼
+LLM / Agent
+    │
+    ▼
+Business Logic & Tools
+    │
+    ▼
+Text-to-Speech
+    │
+    ▼
+Voice Response
+```
+
+### Features
+
+* 🎤 Speech-to-Text
+* 🧠 LLM-powered reasoning
+* 🔧 Tool and API integration
+* 🔊 Text-to-Speech
+* 📞 Conversational IVR workflows
+* ⚡ Low-latency AI interaction
+
+---
+
+## 📄 AskYourDocs — Intelligent Document Assistant
+
+An AI-powered document question-answering system.
+
+### Capabilities
+
+* 📥 Document ingestion
+* ✂️ Intelligent chunking
+* 🧠 Embedding generation
+* 🔎 Semantic search
+* 📚 Retrieval-Augmented Generation
+* 💬 Context-aware question answering
+
+---
+
+## 💳 PayTerminal — POS Payment Terminal Simulator
+
+A full-featured Android POS payment terminal simulator.
+
+### Features
+
+* 💳 Card payment simulation
+* 📱 QR payment simulation
+* 👛 Digital wallet support
+* 🔄 Payment state management
+* 🧾 Digital receipts
+* ↩️ Refund simulation
+* 📊 Transaction history
+* 🔍 Transaction filtering and search
+* 🌐 Backend API integration
+* 💾 Local persistence
+
+**Stack:**
+
+`Java` • `Android SDK` • `MVVM` • `Retrofit` • `Room` • `REST APIs`
+
+---
+
+# 🧪 Engineering Interests
+
+<div align="center">
+
+| Area                    | What I Enjoy Building                             |
+| ----------------------- | ------------------------------------------------- |
+| 🧠 Agentic AI           | Multi-agent workflows and autonomous AI systems   |
+| 📚 RAG                  | Large-scale knowledge retrieval systems           |
+| 🎙️ Voice AI            | Conversational AI and intelligent IVR             |
+| 🔍 Computer Vision      | OCR and document intelligence pipelines           |
+| ⚙️ Backend              | Scalable APIs and distributed services            |
+| 📊 Data                 | Automated data ingestion and processing pipelines |
+| 📱 Software Engineering | Production-ready applications and systems         |
+
+</div>
+
+---
+
+# 🏆 Achievements & Leadership
+
+* 🥇 **Presentation Champ — Season 1 (Intra University), 2024**
+* 🏆 **Presentation Champ — Season 2 (National), 2026**
+* 🥉 **3rd Place — Launchpad**
+* 🥇 **1st Place — University Activation Program**
+* 🎓 **Vice President — UIU ELF**
+* 🎤 Organized and led events involving hundreds to thousands of participants.
+
+---
+
+# 🎓 Education
+
+## 🎓 B.Sc. in Computer Science & Engineering
+
+**United International University (UIU)**
+Concentration: **Data Science**
+
+### Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing
+* Large Language Models
+* Data Mining
+* Software Engineering
+
+**CGPA: 3.59 / 4.00**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://linkedin.com/in/md-arafath-akash77">
-<img src="https://img.shields.io/badge/LinkedIn-md--arafath--akash77-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/ArafathUIU">
-<img src="https://img.shields.io/badge/GitHub-ArafathUIU-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 
-<a href="https://github.com/ArafathUIU">
-<img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_GITHUB_URL">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -260,10 +437,10 @@ A conversational voice-agent system focused on natural phone-based interaction, 
 
 <div align="center">
 
-### "Build systems that are intelligent, scalable, and useful."
+### 💡 *"Building intelligent systems is not just about making AI smarter — it's about making technology more useful."*
 
-<br/>
+**⭐ If you find my work interesting, feel free to explore my repositories and connect!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:312e81&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
