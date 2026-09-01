@@ -1,4 +1,16 @@
 <div align="center">
+<div align="center">
+
+👋 Hi, I'm Md. Arafath Hossain Akash
+AI Engineer | Software Engineer | LLM, RAG & Intelligent Systems
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=d4af37&logoColor=white" alt="GitHub Followers" /> </p>
+
+</div>
+
+<img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:4F46E5,65:7C3AED,100:1E1B4B&height=220&section=header&text=Md.%20Arafath%20Hossain%20Akash&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Product%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
 
