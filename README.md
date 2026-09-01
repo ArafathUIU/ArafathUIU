@@ -200,7 +200,7 @@ class ArafathAkash:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&bg_color=000000\&color=d4af37\&line=ff6b35\&point=ffffff\&area=true\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArafathUIU\&bg_color=000000\&color=d4af37\&line=ff6b35\&point=ffffff\&area=true\&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -208,7 +208,7 @@ class ArafathAkash:
 
 # 💼 Experience
 
-## 🤖 Junior AI Engineer
+## 🤖 AI Engineer
 
 **Betopia Limited** · Dhaka, Bangladesh
 **Feb 2026 – Present**
