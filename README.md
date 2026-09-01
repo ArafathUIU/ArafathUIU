@@ -192,7 +192,7 @@ class ArafathAkash:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=d4af37&icon_color=ff6b35&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArafathUIU&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=d4af37&icon_color=ff6b35&text_color=ffffff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=d4af37&text_color=ffffff"/>
 
