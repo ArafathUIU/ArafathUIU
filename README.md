@@ -1,644 +1,509 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,35:4F46E5,65:7C3AED,100:1E1B4B&height=220&section=header&text=Md.%20Arafath%20Hossain%20Akash&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Product%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Engineering+Intelligent+Systems+That+Scale.;AI+%2B+Software+Engineering+%2B+Product+Development.;Building+Reliable%2C+Production-Ready+Technology." alt="Typing SVG" />
+# 👋 Hi, I'm **Md. Arafath Hossain Akash**
+
+### AI Engineer • Backend Engineer • LLM & Intelligent Systems Developer
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Sc.%20in%20Computer%20Science%20%26%20Engineering-United%20International%20University-4F46E5?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-3.59%20%2F%204.00-7C3AED?style=flat-square&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Software%20Engineering-6366F1?style=flat-square&logo=brain&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/ArafathUIU">
-  <img src="https://img.shields.io/badge/Technical%20Portfolio-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/md-arafath-akash77">
-  <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:arafathakash77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/ArafathUIU">
-  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ArafathUIU&label=Profile%20Views&color=7C3AED&style=flat-square" />
-<a href="https://github.com/ArafathUIU?tab=followers">
-  <img src="https://img.shields.io/github/followers/ArafathUIU?label=Followers&style=flat-square&color=6366F1&labelColor=1E1B4B" />
-</a>
-<a href="https://github.com/ArafathUIU?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ArafathUIU?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=8B5CF6&labelColor=1E1B4B" />
-</a>
+> **Building practical AI systems — from LLM-powered applications and RAG pipelines to Voice AI, OCR, Computer Vision, and scalable backend services.**
 
 </div>
 
-About
+---
 
-I am Md. Arafath Hossain Akash, a Junior AI Engineer and Software Engineer focused on building reliable, scalable, and production-ready software systems.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-My work sits at the intersection of software engineering, artificial intelligence, machine learning, computer vision, OCR, retrieval systems, and full-stack product development. I enjoy taking systems from an early technical concept through architecture, implementation, testing, deployment, and continuous improvement.
+## 🧑‍💻 About Me
 
-I approach engineering with a product mindset: understanding the real problem, designing maintainable architecture, optimizing performance, validating reliability, and delivering measurable value.
+```python
+class ArafathHossainAkash:
 
-My experience includes building and contributing to:
+    def __init__(self):
+        self.name = "Md. Arafath Hossain Akash"
+        self.location = "Dhaka, Bangladesh 🇧🇩"
 
-Production-oriented AI and LLM-powered applications
+        self.role = "Junior AI Engineer"
+        self.company = "Betopia Limited"
 
-RAG systems and large-scale knowledge pipelines
+        self.education = {
+            "degree": "B.Sc. in Computer Science & Engineering",
+            "university": "United International University",
+            "cgpa": "3.59 / 4.00",
+            "focus": [
+                "Artificial Intelligence",
+                "Data Science",
+                "NLP & LLMs",
+                "Machine Learning",
+                "Data Mining"
+            ]
+        }
 
-Computer Vision and OCR processing workflows
+        self.interests = [
+            "Agentic AI",
+            "LLM Applications",
+            "Retrieval-Augmented Generation",
+            "Voice AI & Intelligent IVR",
+            "Backend Engineering",
+            "Computer Vision & OCR"
+        ]
 
-REST APIs and backend services
+    def build(self):
+        return "Turning AI research and ideas into practical software systems 🚀"
+```
 
-Full-stack web applications
+<br clear="right"/>
 
-Voice AI and IVR systems
+---
 
-Automated data processing and scraping pipelines
+# 🎯 What I Do
 
-Enterprise-oriented software systems with testing, security, and scalability in mind
+<table>
+<tr>
 
-Open To
+<td width="50%">
 
-Software Engineering opportunities
+## 🤖 AI & Intelligent Systems
 
-AI / Machine Learning Engineering roles
+* 🧠 Building **LLM-powered applications and Agentic AI systems**
+* 📚 Designing scalable **Retrieval-Augmented Generation (RAG)** pipelines
+* 🔗 Developing **multi-agent architectures** using LangChain and LangGraph
+* 🎙️ Engineering **Voice AI and Intelligent IVR systems**
+* 👁️ Building **Computer Vision and OCR pipelines**
+* 📄 Developing intelligent document-processing systems
 
-Backend and Full-Stack Engineering
+</td>
 
-Applied LLM and RAG Systems
+<td width="50%">
 
-Computer Vision and Intelligent Automation
+## ⚙️ Software & Backend Engineering
 
-Open-source collaboration
+* 🚀 Building scalable backend services with **Python & FastAPI**
+* 🔌 Designing and integrating **REST APIs**
+* 🗄️ Working with **PostgreSQL, Redis, and vector databases**
+* 🔄 Building asynchronous processing workflows with **Celery**
+* 🐳 Containerizing and deploying applications with **Docker**
+* 🧪 Testing, debugging, and improving production systems
 
-Product-focused engineering challenges
+</td>
 
-Tech Stack
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
-Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,ts,php,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts"/>
 
-<br/><br/>
+### 🤖 AI / Machine Learning
 
-Frontend
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite&theme=dark" />
+### ⚙️ Backend & APIs
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,laravel"/>
 
-Backend & Databases
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,laravel,dotnet,nodejs,express,postgres,mysql,sqlite,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js"/>
 
-<br/><br/>
+### 🗄️ Databases & Infrastructure
 
-Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis"/>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux,postman,nginx,azure&theme=dark" />
+### ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,aws"/>
 
 </div>
 
-AI / ML Expertise
+---
 
-Domain
+# 🧠 AI Engineering Stack
 
-Proficiency
+```text
+LLM & Agentic AI
+├── LangChain
+├── LangGraph
+├── Multi-Agent Systems
+├── Tool Calling
+├── LLM APIs
+└── AI Workflow Orchestration
 
-Details
-
-LLM Engineering
-
-Advanced
-
-LLM-powered applications, agentic workflows, prompt engineering, inference pipelines
-
-RAG Systems
-
-Advanced
-
-Retrieval optimization, embeddings, vector search, document chunking, knowledge pipelines
-
-Natural Language Processing
-
-Advanced
-
-Bangla NLP, multilingual embeddings, semantic retrieval, language-driven applications
-
-Machine Learning
-
-Advanced
-
-Model development, evaluation, classification, feature engineering and deployment
-
-Computer Vision
-
-Advanced
-
-OCR pipelines, document processing, image analysis and extraction workflows
+Retrieval-Augmented Generation
+├── Document Ingestion
+├── Intelligent Chunking
+├── Embeddings
+├── Vector Search
+├── FAISS
+├── Reranking
+└── Context Optimization
 
 Voice AI
+├── Speech-to-Text
+├── LLM Reasoning
+├── Business Logic & Tools
+├── Text-to-Speech
+└── Intelligent IVR
 
-Advanced
+Data & Backend
+├── FastAPI
+├── PostgreSQL
+├── Redis
+├── Celery
+├── REST APIs
+└── Docker
+```
 
-STT, TTS, LLM orchestration, conversational pipelines and IVR systems
+---
 
-Data Engineering
+# 💼 Experience
 
-Advanced
+## 🤖 Junior AI Engineer
 
-Data pipelines, web scraping, asynchronous processing and large-scale document ingestion
+### Betopia Limited
 
-AI Infrastructure
+📍 Dhaka, Bangladesh
+🗓️ Feb 2026 – Present
 
-Intermediate / Advanced
+Working on AI-powered products, backend systems, and intelligent automation.
 
-Docker, ONNX, TensorRT, vLLM, API-based inference and production optimization
+### Key Contributions
 
-Featured Projects
+* 🧠 Built and improved **LLM-powered applications and RAG systems**
+* 📚 Developed scalable knowledge retrieval pipelines
+* ⚡ Reduced LLM token consumption by **up to 95%** through retrieval optimization
+* 🎙️ Engineered AI-driven **Voice AI and IVR systems**
+* 🔌 Built backend services and REST APIs using **Python and FastAPI**
+* 👁️ Worked on **Computer Vision and OCR pipelines**
+* 🔄 Developed automated scraping and background-processing workflows
+* 🐳 Worked with containerized services and modern software infrastructure
 
-<details>
-<summary><b>PolyglotSpec — Cross-Language API Contract Validation</b></summary>
+---
 
-<br/>
+## 🔬 Product Development Intern
 
-A software engineering project focused on solving a common distributed-system problem: API contracts drifting across services written in different programming languages and repositories.
+### Institute of Research, Innovation, Incubation & Commercialization
 
-PolyglotSpec is designed around validating service contracts and detecting compatibility issues before they become production failures.
+### United International University
 
-Category
+🗓️ Apr 2025 – Sep 2025
 
-Details
+### Key Contributions
 
-Stack
+* 📚 Built knowledge-base and RAG pipelines for large document collections
+* 📄 Worked on document processing and information extraction
+* 👁️ Developed OCR and Computer Vision pipelines
+* 🧪 Conducted extensive testing and debugging of AI workflows
+* ⚙️ Contributed to AI-powered backend and product-development systems
 
-Python, TypeScript, API Validation, Static Analysis
+---
 
-Scale
+# 🌟 Featured Projects
 
-Multi-service and multi-language architecture
+## 🌐 PolyglotSpec
 
-Performance
+### Cross-Language API Contract Validation
 
-Designed for automated contract validation within engineering workflows
+A system designed to prevent integration failures between services written in different programming languages.
 
-Security
+```text
+Python Service
+      │
+      │ API Contract
+      ▼
+┌─────────────────────┐
+│                     │
+│    PolyglotSpec     │
+│                     │
+│  Schema Validation  │
+│  Contract Testing   │
+│  Compatibility      │
+│                     │
+└─────────────────────┘
+      │
+      ▼
+PHP / Laravel / Other Services
+```
+
+### Focus
+
+* API Contract Validation
+* Schema Compatibility
+* Cross-Language Integration
+* Distributed Systems Reliability
+* Automated Contract Testing
+
+---
 
-Validation-driven development reduces unexpected API behavior
+## 🎓 UniRAG
 
-Impact
+### University Knowledge Retrieval System
 
-Helps detect cross-service contract mismatches before deployment
+A Retrieval-Augmented Generation system designed to provide intelligent answers from large-scale university information.
+
+### Highlights
+
+* 🏫 Knowledge base covering information from **100+ universities**
+* 🔍 Semantic search and retrieval
+* 🧠 Context-aware LLM responses
+* ⚡ Retrieval optimization to significantly reduce LLM token usage
+* 🔄 Automated scraping and background processing
+* 📚 Large-scale document and knowledge ingestion
+
+**Stack**
 
-Repository
+`Python` • `FastAPI` • `LangChain` • `FAISS` • `Celery` • `Redis`
 
-View GitHub Profile
+---
 
-The project reflects my interest in developer tooling, distributed systems, API reliability, and enterprise software engineering.
-
-</details>
-
-<details>
-<summary><b>UniRAG — University Knowledge Retrieval System</b></summary>
-
-<br/>
-
-An intelligent retrieval system designed around large-scale university knowledge ingestion and semantic question answering.
-
-The system combines automated data collection, asynchronous processing, embeddings, vector search, and LLM-powered retrieval to provide more efficient and relevant responses.
-
-Category
-
-Details
-
-Stack
-
-Python, FastAPI, LangChain, FAISS, Celery, Redis
-
-Scale
-
-Knowledge collected from 146+ universities
-
-Performance
-
-Retrieval optimization reduced unnecessary LLM token usage by up to 95%
-
-Security
-
-Controlled backend service architecture and API-driven access
-
-Impact
-
-Demonstrates scalable RAG architecture and automated knowledge pipelines
-
-Repository
-
-View GitHub Profile
-
-UniRAG demonstrates practical experience with retrieval architecture, asynchronous workers, vector databases, data pipelines, and production-oriented AI systems.
-
-</details>
-
-<details>
-<summary><b>AskYourDocs — Intelligent Document Question Answering</b></summary>
-
-<br/>
-
-An AI-powered document interaction platform that enables users to retrieve information and ask contextual questions from uploaded knowledge sources.
-
-The project focuses on converting unstructured documents into searchable knowledge through document processing, embeddings, retrieval pipelines, and LLM orchestration.
-
-Category
-
-Details
-
-Stack
-
-Python, FastAPI, LLM APIs, LangChain, Vector Search
-
-Scale
-
-Designed for multi-document knowledge retrieval
-
-Performance
-
-Retrieval-first architecture minimizes unnecessary model context
-
-Security
-
-API-based backend architecture with controlled document processing
-
-Impact
-
-Enables efficient contextual interaction with private knowledge bases
-
-Repository
-
-View GitHub Profile
-
-The project represents my interest in building practical enterprise AI products where reliability, retrieval quality, performance, and usability matter as much as the underlying model.
-
-</details>
-
-<details>
-<summary><b>OCR & Computer Vision Document Processing Pipeline</b></summary>
-
-<br/>
-
-A large-scale document intelligence pipeline developed for extracting and processing information from complex documents using OCR and Computer Vision techniques.
-
-The work involved designing reliable extraction workflows, evaluating outputs, improving processing quality, and handling edge cases across thousands of documents.
-
-Category
-
-Details
-
-Stack
-
-Python, OCR, Computer Vision, PyTorch Ecosystem
-
-Scale
-
-5,000+ documents processed
-
-Performance
-
-Approximately 97% extraction accuracy
-
-Security
-
-Structured processing workflows for controlled document handling
-
-Impact
-
-Improved automated document processing and reduced manual effort
-
-Repository
-
-View GitHub Profile
-
-This project strengthened my experience in Computer Vision, OCR evaluation, data quality, pipeline reliability, and production testing.
-
-</details>
-
-<details>
-<summary><b>AI-Driven Voice IVR System</b></summary>
-
-<br/>
-
-An intelligent conversational backend integrating speech recognition, text-to-speech, and LLM-based reasoning to support automated voice interactions.
-
-The system was engineered around real-time interaction requirements and production-oriented backend design.
-
-Category
-
-Details
-
-Stack
-
-Python, STT, TTS, LLM APIs, Backend Services
-
-Scale
-
-300+ conversations per day
-
-Performance
-
-Sub-2-second interaction latency target
-
-Security
-
-Backend-controlled AI orchestration and API architecture
-
-Impact
-
-Automated conversational workflows with scalable voice interaction
-
-Repository
-
-View GitHub Profile
-
-The project combines AI engineering, backend development, real-time systems, and conversational product engineering.
-
-</details>
-
-<details>
-<summary><b>PayTerminal — Android POS Payment Terminal Simulator</b></summary>
-
-<br/>
-
-A production-inspired Android application simulating a modern merchant payment terminal with multiple payment flows and transaction lifecycle management.
-
-The application was designed with an emphasis on software architecture, state management, testing, reliability, and realistic transaction workflows.
-
-Category
-
-Details
-
-Stack
-
-Android, Java, MVVM, REST API, Room / SQLite
-
-Scale
-
-Multi-role merchant and transaction workflow simulation
-
-Performance
-
-Optimized local persistence and API-oriented architecture
-
-Security
-
-Role-based access and controlled transaction workflows
-
-Impact
-
-Demonstrates mobile engineering and financial transaction domain modeling
-
-Repository
-
-View GitHub Profile
-
-Key functionality includes merchant authentication, card payments, QR payments, wallet payments, transaction history, refunds, retry handling, network errors, receipts, and transaction state management.
-
-</details>
-
-Experience
-
-Junior AI Engineer — Betopia Limited
-
-Feb 2026 – Present
-
-Working as an AI and software engineering professional focused on designing and building intelligent systems, backend services, retrieval architectures, automation pipelines, and AI-driven products.
-
-Scope of Work
-
-Designed and developed LLM-powered and RAG-based applications
-
-Built scalable knowledge ingestion and document processing pipelines
-
-Engineered backend services and REST APIs using Python and FastAPI
-
-Worked with Computer Vision and OCR workflows for automated document extraction
-
-Developed retrieval optimization strategies that significantly reduced unnecessary LLM token usage
-
-Built AI-driven conversational and voice interaction pipelines
-
-Worked with asynchronous processing using Celery and Redis
-
-Applied software engineering practices around testing, architecture, maintainability, and reliability
-
-Contributed to product-focused engineering initiatives involving AI, backend systems, and intelligent automation
-
-Python FastAPI LLMs RAG LangChain Celery Redis OCR Computer Vision REST APIs Docker
-
-Product Development Intern — Institute of Research, Innovation, Incubation & Commercialization, UIU
-
-Apr 2025 – Sep 2025
-
-Worked on research-oriented and product-focused engineering initiatives involving Retrieval-Augmented Generation, knowledge pipelines, OCR, Computer Vision, and automated data processing.
-
-Scope of Work
-
-Built and improved RAG knowledge-base processing pipelines
-
-Worked with 15,000+ documents in knowledge and retrieval workflows
-
-Developed OCR and Computer Vision processing pipelines
-
-Processed 5,000+ documents with approximately 97% extraction accuracy
-
-Performed extensive testing across 120+ testing cycles
-
-Identified and helped resolve 85+ issues
-
-Contributed to improved system reliability and workflow stability
-
-Collaborated on research, experimentation, product development, and technical validation
-
-Python RAG NLP OCR Computer Vision Data Pipelines Testing Machine Learning
-
-Achievements
+## 📄 AskYourDocs
+
+### AI-Powered Document Intelligence System
+
+An intelligent document question-answering platform.
+
+### Capabilities
+
+```text
+Documents
+    │
+    ▼
+Document Processing
+    │
+    ▼
+Chunking & Embeddings
+    │
+    ▼
+Vector Database
+    │
+    ▼
+Semantic Retrieval
+    │
+    ▼
+LLM
+    │
+    ▼
+Context-Aware Answer
+```
+
+### Features
+
+* 📥 Document ingestion
+* ✂️ Intelligent chunking
+* 🧠 Embedding generation
+* 🔎 Semantic search
+* 📚 Retrieval-Augmented Generation
+* 💬 Context-aware responses
+
+---
+
+## 🎙️ AI-Powered Voice & IVR System
+
+An intelligent conversational architecture combining voice processing, LLM reasoning, and backend services.
+
+```text
+User Voice
+    │
+    ▼
+Speech-to-Text
+    │
+    ▼
+LLM / AI Agent
+    │
+    ▼
+Business Logic & Tools
+    │
+    ▼
+Text-to-Speech
+    │
+    ▼
+Voice Response
+```
+
+### Features
+
+* 🎤 Speech-to-Text
+* 🧠 LLM-powered reasoning
+* 🔧 Tool and API integration
+* 🔊 Text-to-Speech
+* 📞 Intelligent IVR workflows
+* ⚡ Low-latency conversational AI
+
+---
+
+## 👁️ OCR & Computer Vision Pipeline
+
+An automated document-processing system designed to extract and validate information from large document collections.
+
+### Highlights
+
+* 📄 Automated document processing
+* 🔍 OCR-based information extraction
+* 👁️ Computer Vision processing
+* 🧪 Extensive validation and testing
+* ⚡ High-volume document workflows
+
+---
+
+## 💳 PayTerminal
+
+### Android POS Payment Terminal Simulator
+
+A software-engineering project simulating a real-world POS payment terminal.
+
+### Features
+
+* 💳 Card payment simulation
+* 📱 QR payment simulation
+* 👛 Digital wallet payments
+* 🔄 Payment state management
+* 🧾 Digital receipts
+* ↩️ Refund simulation
+* 📊 Transaction history
+* 🔍 Transaction search and filtering
+* 🌐 REST API integration
+* 💾 Local transaction persistence
+
+### Architecture
+
+```text
+Android Application
+        │
+        ▼
+     MVVM Layer
+        │
+        ▼
+ Payment Repository
+        │
+        ├──── REST API
+        │
+        └──── Local Database
+               │
+              Room
+```
+
+**Stack**
+
+`Java` • `Android SDK` • `MVVM` • `Retrofit` • `Room` • `REST APIs`
+
+---
+
+# 📊 Engineering Impact
 
 <div align="center">
 
-Recognition
-
-Details
-
-Presentation Champion — Season 1
-
-Achieved championship recognition in an intra-university presentation competition with approximately 400 participants
-
-Presentation Champion — Season 2
-
-Won recognition in a national-level presentation competition involving approximately 1,100 participants
-
-Launchpad — 3rd Place
-
-Secured third place through competitive innovation and presentation performance
-
-University Activation Program — 1st Place
-
-Achieved first place through leadership, execution, and team collaboration
-
-Vice President — UIU ELF
-
-Served in a leadership role involving event organization, team coordination, and community engagement
-
-Research & Product Engineering Experience
-
-Contributed to AI, RAG, OCR, Computer Vision, and intelligent software systems
+| 🚀 Area              | 📈 Contribution                                               |
+| -------------------- | ------------------------------------------------------------- |
+| 🧠 RAG Optimization  | Reduced LLM token consumption by up to **95%**                |
+| 📚 Knowledge Systems | Built retrieval pipelines for **100+ universities**           |
+| 📄 Document AI       | Worked with large-scale OCR and document-processing workflows |
+| 🎙️ Voice AI         | Built conversational AI and intelligent IVR architectures     |
+| ⚙️ Backend           | Developed scalable Python/FastAPI services and REST APIs      |
+| 🧪 Quality           | Extensive testing, debugging, and validation of AI systems    |
 
 </div>
 
-Certifications
+---
 
-AWS
+# 🏆 Achievements & Leadership
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Infrastructure-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20Learning-312E81?style=flat-square&logo=amazonaws&logoColor=white" />
+## 🎤 Presentation & Leadership
 
-<br/>
+* 🥇 **Presentation Champ — Season 1 (Intra University), 2024**
+* 🏆 **Presentation Champ — Season 2 (National), 2026**
+* 🥉 **3rd Place — Launchpad**
+* 🥇 **1st Place — University Activation Program**
 
-Oracle
+## 🎓 Leadership
 
-<img src="https://img.shields.io/badge/Oracle-Database%20%26%20Enterprise%20Technology-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
+* 🎯 **Vice President — UIU ELF**
+* 🎤 Organized and contributed to university and national-scale events involving hundreds and thousands of participants.
 
-<br/>
+---
 
-NPTEL
+# 🎓 Education
 
-<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-6366F1?style=for-the-badge&logo=bookstack&logoColor=white" />
+## 🎓 B.Sc. in Computer Science & Engineering
 
-<br/>
+### United International University (UIU)
 
-Cisco
+**CGPA:** `3.59 / 4.00`
 
-<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
+### Academic Interests
 
-Coding Profiles
+* 🤖 Artificial Intelligence
+* 📊 Data Science
+* 🧠 Machine Learning
+* 💬 Natural Language Processing
+* 🔗 Large Language Models
+* 📈 Data Mining
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+🧠 Advanced Agentic AI Architectures
+🤝 Multi-Agent Collaboration
+🎙️ Next-Generation Voice AI
+📚 Advanced RAG & Retrieval Optimization
+⚡ High-Performance LLM Systems
+👁️ AI + Computer Vision Systems
+🏗️ Production AI Infrastructure
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArafathUIU&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafathUIU&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-arafath-akash77/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.geeksforgeeks.org">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures%20%26%20Algorithms-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.codechef.com">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-6366F1?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
-
-GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArafathUIU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafathUIU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ArafathUIU&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
-
-</div>
-
-GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArafathUIU&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
-Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafathUIU&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=8B5CF6&area=true&hide_border=true&area_color=312E81" width="100%" />
-
-</div>
-
-Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArafathUIU/ArafathUIU/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
-Current Focus
-
-Learning:
-  - Advanced Software Architecture
-  - Scalable AI Systems
-  - Production Machine Learning
-  - Distributed Systems
-  - Mobile and Backend Engineering
-
-Building:
-  - AI-powered Products
-  - Retrieval-Augmented Generation Systems
-  - Computer Vision and OCR Pipelines
-  - Full-Stack Applications
-  - Production-ready Backend Services
-
-Exploring:
-  - Agentic AI
-  - Voice AI
-  - LLM Infrastructure
-  - Model Optimization
-  - High-performance Inference
-
-Open_To:
-  - Software Engineering
-  - AI Engineering
-  - Machine Learning Engineering
-  - Backend Engineering
-  - Full-Stack Product Development
-  - Open Source Collaboration
-
-Connect
-
-<div align="center">
 
 <a href="mailto:arafathakash77@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/md-arafath-akash77">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-312E81?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://arafathai.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
 <a href="https://github.com/ArafathUIU">
-  <img src="https://img.shields.io/badge/GitHub-Open%20Source%20Work-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ArafathUIU">
-  <img src="https://img.shields.io/badge/Portfolio-Engineering%20Profile-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
+
+---
 
 <div align="center">
 
-"Build with curiosity. Engineer with discipline. Deliver with impact."
+### 💡 *Building intelligent systems that solve real-world problems.*
 
-<br/>
+**⭐ Feel free to explore my repositories and connect with me!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,35:312E81,65:4F46E5,100:7C3AED&height=140&section=footer" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
-
