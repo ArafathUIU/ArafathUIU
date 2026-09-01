@@ -7,8 +7,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=d4af37&logoColor=white" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ArafathUIU&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ArafathUIU?label=Followers&style=for-the-badge&color=d4af37&logoColor=white" alt="GitHub Followers" />
 </p>
 
 </div>
