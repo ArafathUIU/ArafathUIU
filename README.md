@@ -168,6 +168,26 @@ Data & Backend
 
 # 💼 Experience
 
+## 🤖 AI Engineer - Odoo ERP & Agentic AI Systems
+
+### GW Products
+
+📍 Remote  
+🗓️ Oct 2026 – Present
+
+Working on **Agentic AI systems, Odoo ERP development, and intelligent business process automation.**
+
+### Key Contributions
+
+* 🤖 Developing **agentic AI systems** for business workflow automation
+* 🧠 Contributing to **Reelo AI**, an AI-powered conversational and business automation platform
+* 🔄 Implementing intelligent workflow orchestration and multi-part query handling
+* ⚙️ Developing AI-powered integrations within the **Odoo ecosystem**
+* 🔌 Working with **Python, LLMs, APIs, and backend services**
+* 🛠️ Testing, debugging, and optimizing AI-driven features for reliability and performance
+
+---
+
 ## 🤖 Junior AI Engineer
 
 ### Betopia Limited
