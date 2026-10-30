@@ -27,8 +27,8 @@ class ArafathHossainAkash:
         self.name = "Md. Arafath Hossain Akash"
         self.location = "Dhaka, Bangladesh 🇧🇩"
 
-        self.role = "Junior AI Engineer"
-        self.company = "Betopia Limited"
+        self.role = "AI Engineer - Odoo ERP & Agentic AI Systems"
+        self.company = "GW Products USA"
 
         self.education = {
             "degree": "B.Sc. in Computer Science & Engineering",
