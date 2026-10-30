@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm **Md. Arafath Hossain Akash**
+# 👋 Hi, I'm Md. Arafath Hossain Akash. Welcome to my personal GitHub!
+
+💻 Currently building and contributing through my organization's GitHub account 🚀**
 
 ### AI Engineer • Backend Engineer • LLM & Intelligent Systems Developer
 
